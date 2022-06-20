@@ -123,7 +123,7 @@ component.yml
 name: awesome_component
 version: 101
 type: command
-command: echo “I live in Registry and run in Workspace”
+command: echo 'I live in Registry and run in Workspace'
 environment:
   image: docker.io/python
 ```
